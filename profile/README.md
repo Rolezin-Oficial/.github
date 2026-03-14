@@ -1,12 +1,35 @@
-## Hi there 👋
+#🎉 Rolezin
 
-<!--
+Rolezin é uma plataforma voltada para descobrir, compartilhar e organizar lugares, eventos e experiências sociais.
+A ideia é conectar pessoas a locais, eventos e atividades, permitindo descobrir novos lugares, interagir com a comunidade e registrar experiências.
 
-**Here are some ideas to get you started:**
+#🚀 Objetivo
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O projeto busca criar um ecossistema onde usuários possam:
+📍 Descobrir locais e eventos
+⭐ Avaliar experiências
+👥 Interagir com outros usuários
+🗺️ Explorar recomendações baseadas em localização
+🎮 Participar de sistemas de gamificação e conquistas
+🧱 Arquitetura do Projeto
+
+
+#📂 Estrutura dos Módulos
+
+O sistema foi pensado em módulos principais:
+Auth → autenticação e autorização
+Social → publicações, comentários e interações
+Business → locais, eventos e categorias
+Commerce → compras, pagamentos e assinaturas
+Gamification → conquistas e progresso do usuário
+
+#🛠️ Tecnologias
+O projeto utiliza tecnologias como:
+C# / .NET
+WPF
+SQL Server
+REST APIs
+Git / GitHub
+
+#🎯 Status do Projeto
+🚧 Em desenvolvimento.
