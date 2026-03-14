@@ -1,4 +1,4 @@
-## 🎉 Rolezin
+# 🎉 Rolezin
 
 Rolezin é uma plataforma voltada para descobrir, compartilhar e organizar lugares, eventos e experiências sociais.
 A ideia é conectar pessoas a locais, eventos e atividades, permitindo descobrir novos lugares, interagir com a comunidade e registrar experiências.
