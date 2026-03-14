@@ -24,12 +24,26 @@ Commerce → compras, pagamentos e assinaturas<br>
 Gamification → conquistas e progresso do usuário
 
 ## 🛠️ Tecnologias
-O projeto utiliza tecnologias como:<br>
-C# / .NET<br>
-WPF<br>
-SQL Server<br>
-REST APIs<br>
-Git / GitHub<br>
+
+### Backend
+- C#<br>
+- .NET<br>
+- SQL Server
+
+### Frontend Web / Mobile
+- HTML<br>
+- CSS<br>
+- JavaScript<br>
+- React
+
+### Desktop
+- WPF<br>
+- XAML
+
+## 🧱 Arquitetura
+
+- MVC (Model–View–Controller)
+- MVVM (Model–View–ViewModel)
 
 ## 🎯 Status do Projeto
 🚧 Em desenvolvimento.
