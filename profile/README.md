@@ -5,31 +5,31 @@ A ideia é conectar pessoas a locais, eventos e atividades, permitindo descobrir
 
 ## 🚀 Objetivo
 
-O projeto busca criar um ecossistema onde usuários possam:
-📍 Descobrir locais e eventos
-⭐ Avaliar experiências
-👥 Interagir com outros usuários
-🗺️ Explorar recomendações baseadas em localização
-🎮 Participar de sistemas de gamificação e conquistas
+O projeto busca criar um ecossistema onde usuários possam:<br>
+📍 Descobrir locais e eventos<br>
+⭐ Avaliar experiências<br>
+👥 Interagir com outros usuários<br>
+🗺️ Explorar recomendações baseadas em localização<br>
+🎮 Participar de sistemas de gamificação e conquistas<br>
 🧱 Arquitetura do Projeto
 
 
 ## 📂 Estrutura dos Módulos
 
-O sistema foi pensado em módulos principais:
-Auth → autenticação e autorização
-Social → publicações, comentários e interações
-Business → locais, eventos e categorias
-Commerce → compras, pagamentos e assinaturas
+O sistema foi pensado em módulos principais:<br>
+Auth → autenticação e autorização<br>
+Social → publicações, comentários e interações<br>
+Business → locais, eventos e categorias<br>
+Commerce → compras, pagamentos e assinaturas<br>
 Gamification → conquistas e progresso do usuário
 
 ## 🛠️ Tecnologias
-O projeto utiliza tecnologias como:
-C# / .NET
-WPF
-SQL Server
-REST APIs
-Git / GitHub
+O projeto utiliza tecnologias como:<br>
+C# / .NET<br>
+WPF<br>
+SQL Server<br>
+REST APIs<br>
+Git / GitHub<br>
 
 ## 🎯 Status do Projeto
 🚧 Em desenvolvimento.
